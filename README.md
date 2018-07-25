@@ -2,6 +2,10 @@
 
 This is a repository with links to products, blog posts and stuff to help us be makers. Feel free to contribute.
 
+### Development
+* [Ideas](https://ideasareworthless.io/)
+
+
 ### Launch product
 
 * [Product Hunt](https://www.producthunt.com/)
